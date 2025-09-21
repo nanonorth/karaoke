@@ -335,7 +335,7 @@ async function main() {
       ),
       status: rand(statuses),
       paymentMethod: rand(payments),
-      totalAmount: r.price,
+      totalAmount: r.prise,
     });
   }
 
